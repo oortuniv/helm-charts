@@ -3,44 +3,44 @@ entries:
   sysbench:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T14:46:13.4254344+09:00"
+    created: "2022-11-30T14:46:48.5269996+09:00"
     description: A Helm chart for Kubernetes
-    digest: 57dd1ba0d2669083d490fc9a83d6eb44dadab103f6a9a8b26025336c8bd84a3d
+    digest: db6399c0505c551f66050c473036d3d00e50472fd069e74bff6cf407e41b0723
     icon: https://avatars.githubusercontent.com/u/119399679
     name: sysbench
     type: application
     urls:
-    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/package/sysbench-0.0.4.tgz
+    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/sysbench-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T14:46:13.4246938+09:00"
+    created: "2022-11-30T14:46:48.5260788+09:00"
     description: A Helm chart for Kubernetes
     digest: 7ec4a8a9507837b0d8ecf36510a22eb9c3d7e29e4546b1648c49e77f26af7524
     icon: https://avatars.githubusercontent.com/u/119399679
     name: sysbench
     type: application
     urls:
-    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/package/sysbench-0.0.3.tgz
+    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/sysbench-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T14:46:13.4242587+09:00"
+    created: "2022-11-30T14:46:48.5255307+09:00"
     description: A Helm chart for Kubernetes
     digest: e1aa367830a0335b257a9fa79b60eb34aa81c0093515daf35d86bcdccf25718a
     name: sysbench
     type: application
     urls:
-    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/package/sysbench-0.0.2.tgz
+    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/sysbench-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T14:46:13.4239942+09:00"
+    created: "2022-11-30T14:46:48.5252065+09:00"
     description: A Helm chart for Kubernetes
     digest: 7fb0cbc75f785fe79f0e7e4ed2335eb945afe43f2bad172ffb1f1880702db8f2
     name: sysbench
     type: application
     urls:
-    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/package/sysbench-0.0.1.tgz
+    - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/sysbench-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-30T14:46:13.4236265+09:00"
+generated: "2022-11-30T14:46:48.5247091+09:00"
