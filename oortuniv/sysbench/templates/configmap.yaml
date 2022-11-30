@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: ConfigMap
+metadata:
+  name: {{ include "sysbench.fullname" . }}
+  labels:
+    {{- include "sysbench.labels" . | nindent 4 }}
+data:
+  sample.sh: |
+    #!bin/bash
+
+    SB_CMD="sysbench --db-driver=mysql --mysql-host=YOUR_HOST --mysql-port=YOUR_PORT --mysql-user=YOUR_USER --mysql-password=YOUR_PASSWORD /opt/oortuniv/sysbench/lua/oltp_read_write.lua"
+
+    $SB_CMD cleanup
+
+    $SB_CMD prepare
+
+    $SB_CMD run
+
+    $SB_CMD cleanup
