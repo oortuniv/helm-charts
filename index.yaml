@@ -1,14 +1,3 @@
 apiVersion: v1
-entries:
-  sysbench:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-11-30T13:37:58.1382085+09:00"
-    description: A Helm chart for Kubernetes
-    digest: 312601d2acff88d4e7008626ebc986ed3291fb0c2d82243987ca8e54bcfe9687
-    name: sysbench
-    type: application
-    urls:
-    - sysbench-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-11-30T13:37:58.1374832+09:00"
+entries: {}
+generated: "2022-11-30T13:39:11.7471536+09:00"
