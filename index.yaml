@@ -3,9 +3,9 @@ entries:
   sysbench:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T15:21:38.9816443+09:00"
+    created: "2022-11-30T15:21:43.0153811+09:00"
     description: A Helm chart for Kubernetes
-    digest: 9b8facf78d67e419722a0c68764d2a2f5113f3a8c12a65f1c46431a11489a025
+    digest: a31cd7075d3b0fb7c363c694ffdab3054b1d6181d81b81a65422ec45b8134258
     icon: https://avatars.githubusercontent.com/u/119399679
     name: sysbench
     type: application
@@ -14,7 +14,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: latest
-    created: "2022-11-30T15:21:38.9776931+09:00"
+    created: "2022-11-30T15:21:43.0105651+09:00"
     description: A Helm chart for Kubernetes
     digest: 3fca17d8802880cc98311f957107bfb57228741da0d8b43f68ddb7668f2d534e
     icon: https://avatars.githubusercontent.com/u/119399679
@@ -23,4 +23,4 @@ entries:
     urls:
     - https://oortuniv.github.io/helm-charts/oortuniv/sysbench/package/sysbench-0.0.4.tgz
     version: 0.0.4
-generated: "2022-11-30T15:21:39.2031647+09:00"
+generated: "2022-11-30T15:21:43.1550261+09:00"
