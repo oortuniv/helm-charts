@@ -3,7 +3,7 @@ entries:
   sysbench:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-30T13:20:12.7491438+09:00"
+    created: "2022-11-30T13:20:18.3982999+09:00"
     description: A Helm chart for Kubernetes
     digest: 81fe5ce6a401af8b29a52e41cd21681dd138d74feb789c20144e23e0437c229a
     name: sysbench
@@ -11,4 +11,4 @@ entries:
     urls:
     - sysbench-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-30T13:20:12.7486716+09:00"
+generated: "2022-11-30T13:20:18.3978198+09:00"
