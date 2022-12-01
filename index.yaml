@@ -3,13 +3,13 @@ entries:
   timescaledb:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-12-01T10:51:39.3397565+09:00"
+    created: "2022-12-01T10:52:47.3903784+09:00"
     description: A Helm chart for Kubernetes
-    digest: d52dfeb56585c39387b1eeb38482b317bbcbb906aaba8479ed73029c49fc7ca4
+    digest: 9cd53d46730721b83e67c91d5bfda6dca2f8cc8b72ea92c6df5ac6a50fcfdc59
     icon: https://avatars.githubusercontent.com/u/119399679
     name: timescaledb
     type: application
     urls:
     - https://oortuniv.github.io/helm-charts/oortuniv/timescaledb/package/timescaledb-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-01T10:51:39.7325818+09:00"
+generated: "2022-12-01T10:52:47.7512801+09:00"
